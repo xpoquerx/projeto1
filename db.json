@@ -1,0 +1,29 @@
+{
+  "cardapio" : [
+      {
+      "prato":"Comida1",
+      "preco": 25,
+      "imagem":"assets/imagens/comida1.png"
+      },
+
+      {
+      "prato":"Comida2",
+      "preco": 15,
+      "imagem":"assets/imagens/comida2.png"
+      },
+
+      {
+      "prato":"Comida3",
+      "preco": 18,
+      "imagem":"assets/imagens/comida3.png"
+      },
+
+      {
+      "prato":"Comida4",
+      "preco": 24,
+      "imagem":"assets/imagens/comida4.png"
+      }
+  ]
+}
+
+

@@ -1,0 +1,13 @@
+<h1>Comidas </h1>
+
+<div class="container">
+    <div class="row">
+        <div *ngFor="let menu of cardapios" class="col-md-4">
+            <img [src]="menu.imagem">
+            <h2>prato: {{menu.prato}}</h2>
+            <h2>preco: {{menu.preco}}</h2>
+
+        </div>
+    </div>
+</div>
+
